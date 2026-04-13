@@ -1,0 +1,14 @@
+.one{width:200px;
+    height: 200px;
+    background-color: aqua;
+    margin:50px ;
+}
+.container{
+    display: flex;
+    outline: 1px dashed black;
+    width:1000px;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
